@@ -1,0 +1,15 @@
+
+ul{
+    display: flex;
+    gap: 22px;
+    justify-content: space-between ;
+}
+
+.btn{
+    background: transparent;
+}
+
+.btn:hover{
+    background-color: black;
+    color: azure;
+}
